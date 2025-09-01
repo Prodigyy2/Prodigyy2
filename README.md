@@ -1,91 +1,87 @@
-# 👨‍💻 Wesley Gustavo
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=2aa889"/>
 
-**`Desenvolvedor Back-end`**
+<br>
 
-Me chamo Wesley Gustavo, tenho 21 anos e sou natural do Mato Grosso. Após concluir o ensino médio no EEMOP, decidi seguir minha paixão de infância pela tecnologia, ingressando no curso de Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul Virtual.
+<div align="center">
+  
+  <b>`プログラマ`</b>
+  <samp>
+      <br>
+      Hi there! I'm <b>Wesley Gustavo</b>
+  </samp>
+</div>
 
-Estou focado em construir uma base sólida em desenvolvimento de software e solução de problemas. Sou uma pessoa proativa, com grande vontade de aprender e estou em busca de meu primeiro desafio profissional na área, seja como estagiário ou desenvolvedor júnior, onde eu possa contribuir e crescer junto com a equipe.
-<p align="left">
-    <a href="https://github.com/prodigyy2?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/prodigyy2?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/prodiggy2?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/prodigyy2?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=2aa889&width=900&size=22&center=true&lines=I'm+21+years+old;I+am+from+Brazil;Student+of+Analysis+and+Systems+Development;Backend+Developer+&+Designer;Be+welcome!" alt="Typing SVG"/>
+</div>
 
----
+<br>
 
-### 🤖 Linguagens e Tecnologias
+<div align="center">
+  <img src="https://img.shields.io/badge/Wesley_Gustavo-black" />
+</div>
+      
+<br>
+<br>
+      
+<div align="center">
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=Prodigyy2&show_icons=true&count_private=true&rank_icon=github&theme=gotham&font=Iosevka"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prodigyy2&layout=compact&font=Iosevka&langs_count=16&theme=gotham"/>
+  <br>
+  <br>
+  <img align="center" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prodigyy2&theme=gotham"/>
+</div>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+<div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+</div>
 
-<br/>
-<br/>
+<br>
+<br>
 
-### 📊 Estatísticas
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
+  
+<br>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=prodigyy2&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+##
 
-<img 
-      align="left" 
-      alt="Top Langs" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=prodigyy2&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<br>
 
-</p>
+<div align="center">
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
+  <br>
+
+  [![Gmail](https://img.shields.io/badge/Gmail-194d45?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:wesleygustavo2@gmail.com)
+  [![Discord](https://img.shields.io/badge/Discord-194d45?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.com/users/276369919812173825)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-194d45?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/wesleygustavo)
+  
+</div>
+<br>
+
+</details>
+
+##
+
+<br>
+
+<div align="center">
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fprodigyy2&s=30&c=2aa889&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+</div>
+
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2aa889&height=100&section=footer"/>
