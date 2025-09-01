@@ -1,4 +1,4 @@
-# 🧑🏻‍💻 Wesley Gustavo
+# 👨‍💻 Wesley Gustavo
 
 **`Desenvolvedor Back-end`**
 
