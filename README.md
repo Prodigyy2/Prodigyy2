@@ -12,13 +12,13 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=2aa889&width=900&size=22&center=true&lines=I'm+21+years+old;I+am+from+Brazil;Student+of+Analysis+and+Systems+Development;Backend+Developer+&+Designer;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=2aa889&width=900&size=22&center=true&lines=I'm+21+years+old;I+am+from+Brazil;Student+of+Analysis+and+Systems+Development;Backend+Developer;Be+welcome!" alt="Typing SVG"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Wesley_Gustavo-black" />
+  <img src="https://img.shields.io/badge/Gusta ☺ -black" />
 </div>
       
 <br>
@@ -65,7 +65,7 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-194d45?style=for-the-badge&logo=gmail&logoColor=fff)](wesleygustavo2@gmail.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-194d45?style=for-the-badge&logo=gmail&logoColor=fff)](:wesleygustavo2@gmail.com)
   [![Discord](https://img.shields.io/badge/Discord-194d45?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.com/users/276369919812173825)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-194d45?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/wesleygustavo)
   
