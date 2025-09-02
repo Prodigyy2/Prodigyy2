@@ -65,7 +65,7 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-194d45?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:wesley.gustavo2@gmail.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-194d45?style=for-the-badge&logo=gmail&logoColor=fff)](wesley.gustavo2@gmail.com)
   [![Discord](https://img.shields.io/badge/Discord-194d45?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.com/users/276369919812173825)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-194d45?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/wesleygustavo)
   
