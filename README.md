@@ -80,10 +80,6 @@
 
 <br>
 
-<div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fprodigyy2&s=30&c=2aa889&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
-</div>
-
 <br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2aa889&height=100&section=footer"/>
